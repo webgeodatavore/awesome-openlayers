@@ -1,4 +1,4 @@
-## External plugins and projects using OpenLayers https://github.com/nomadlabs/react-ol33
+## External plugins and projects using OpenLayers
 
 * [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) with [code](https://github.com/buddebej/ol3-dem). Mainly outdated due to [ol.source.Raster](http://openlayers.org/en/v3.9.0/examples/shaded-relief.html)
 * [DataShine](http://datashine.org.uk) with [corresponding blog post](http://oobrien.com/2014/09/openlayers-3/) about the transition.
