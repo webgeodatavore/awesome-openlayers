@@ -7,7 +7,6 @@
 * [MapStory](http://mapstory.org/) with repository [story-tools](https://github.com/MapStory/story-tools)
 * [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
 * [GeoBretagne viewer](http://kartenn.region-bretagne.fr/mviewer/) with [code](https://github.com/geobretagne/mviewer)
-
 * [Swipe maps from National Library of Scotland](http://maps.nls.uk/geo/explore/sidebysideswipe.cfm#zoom=5&lat=56.0000&lon=-4.0000&layers=1&right=BingHyb) but also from [IGN Spain](http://www.ign.es/web/mapasantiguos/swipemap.html#map=14/-408575.03/4926060.72/0)
 
 
