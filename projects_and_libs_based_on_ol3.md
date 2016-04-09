@@ -10,16 +10,18 @@
 
 * [Swipe maps from National Library of Scotland](http://maps.nls.uk/geo/explore/sidebysideswipe.cfm#zoom=5&lat=56.0000&lon=-4.0000&layers=1&right=BingHyb) but also from [IGN Spain](http://www.ign.es/web/mapasantiguos/swipemap.html#map=14/-408575.03/4926060.72/0)
 
+
+https://github.com/dpmcmlxxvi/olexp
+http://www.opentransportnet.eu/web/guest/create-maps
 http://klokantech.github.io/iiifviewer/ with https://github.com/klokantech/iiifviewer
 http://epsg.io with https://github.com/klokantech/epsg.io
 https://github.com/mapgears/ol3-google-maps
 https://github.com/TDesjardins/gwt-ol3
-https://github.com/VOL3/v-ol3
+https://github.com/VOL3/v-o3l
 https://github.com/maprohu/scalajs-ol3
 CartoDB samples for using OpenLayers 3
 https://github.com/3x0dv5/ol3-typescript-definitions
 https://github.com/ThomasG77/turf-ol3
-
 https://github.com/region-bretagne/viewer
 https://github.com/fredj/ol3-polymer
 https://www.drupal.org/project/openlayers
@@ -58,6 +60,7 @@ https://github.com/tomchadwin/qgis2web
 
 * [Ngeo](https://github.com/camptocamp/ngeo) by CampToCamp
 * [Angular OpenLayers directive](https://github.com/tombatossals/angular-openlayers-directive)
+* [HSLAYERS-NG](http://ng.hslayers.org/) with [Github repository](https://github.com/hslayers/hslayers-ng)
 
 **React based**
 
