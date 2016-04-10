@@ -1,37 +1,23 @@
 ## External plugins and projects using OpenLayers
 
+### Websites
+
 * [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) with [code](https://github.com/buddebej/ol3-dem). Mainly outdated due to [ol.source.Raster](http://openlayers.org/en/v3.9.0/examples/shaded-relief.html)
 * [DataShine](http://datashine.org.uk) with [corresponding blog post](http://oobrien.com/2014/09/openlayers-3/) about the transition.
 * [Geoportail Suisse](http://map.geo.admin.ch) (Switzerland Geoportal) with [mf-geoadmin3 code on Github](https://github.com/geoadmin/mf-geoadmin3). Based on Angular
 * [Rocket](http://mapshup.com/projects/rocket/), an application to select satellites images
 * [MapStory](http://mapstory.org/) with repository [story-tools](https://github.com/MapStory/story-tools)
-* [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
 * [GeoBretagne viewer](http://kartenn.region-bretagne.fr/mviewer/) with [code](https://github.com/geobretagne/mviewer)
-* [Swipe maps from National Library of Scotland](http://maps.nls.uk/geo/explore/sidebysideswipe.cfm#zoom=5&lat=56.0000&lon=-4.0000&layers=1&right=BingHyb) but also from [IGN Spain](http://www.ign.es/web/mapasantiguos/swipemap.html#map=14/-408575.03/4926060.72/0)
+* [Swipe maps from National Library of Scotland](http://maps.nls.uk/geo/explore/sidebysideswipe.cfm#zoom=5&lat=56.0000&lon=-4.0000&layers=1&right=BingHyb)
+* [Swipe maps from IGN Spain](http://www.ign.es/web/mapasantiguos/swipemap.html#map=14/-408575.03/4926060.72/0)
+* [High resolution image](http://klokantech.github.io/iiifviewer/) with [Github repository](https://github.com/klokantech/iiifviewer)
+* [EPSG.io website](http://epsg.io) with [associated sources](https://github.com/klokantech/epsg.io)
 
+### CMS integration
 
-https://github.com/dpmcmlxxvi/olexp
-http://www.opentransportnet.eu/web/guest/create-maps
-http://klokantech.github.io/iiifviewer/ with https://github.com/klokantech/iiifviewer
-http://epsg.io with https://github.com/klokantech/epsg.io
-https://github.com/mapgears/ol3-google-maps
-https://github.com/TDesjardins/gwt-ol3
-https://github.com/VOL3/v-o3l
-https://github.com/maprohu/scalajs-ol3
-CartoDB samples for using OpenLayers 3
-https://github.com/3x0dv5/ol3-typescript-definitions
-https://github.com/ThomasG77/turf-ol3
-https://github.com/region-bretagne/viewer
-https://github.com/fredj/ol3-polymer
-https://www.drupal.org/project/openlayers
-https://github.com/nls-oskari/oskari
-https://github.com/ghettovoice/ol3-mapscale
-https://github.com/syerad/ol3-measurement
-https://github.com/pgiraud/jsonix-ol3-owscontext
-https://github.com/riana/ol3-snapsvg.git
-https://github.com/CALIL/ol3fabric
-https://github.com/Viglino/Geoportail-KISS
-https://github.com/tomchadwin/qgis2web
+* [OpenLayers 3 plugin for Drupal](https://www.drupal.org/project/openlayers)
+* [WordPress OpenStreetMap Plugin](http://wp-osm-plugin.hanblog.net/allgemein/openlayers-3-in-wordpress-osm-plugin/)
+
 
 ### Official
 
@@ -40,8 +26,8 @@ https://github.com/tomchadwin/qgis2web
 
 ### Books
 
-* http://openlayersbook.github.io
-* http://www.acuriousanimal.com/thebookofopenlayers3/
+* [OpenLayers 3 Beginner’s Guide]() by Thomas Gratier, Paul Spencer & Erik Hazzard and [code samples](http://openlayersbook.github.io))
+* [The book of OpenLayers 3 - Theory and Practice](https://leanpub.com/thebookofopenlayers3) with [code samples](http://www.acuriousanimal.com/thebookofopenlayers3/)
 
 ### Plugins/addons
 
@@ -52,6 +38,7 @@ https://github.com/tomchadwin/qgis2web
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
 * [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) for both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
 * [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) a plugin to replace context menu in OpenLayers.
+* [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
 
 ### Frameworks on top of OpenLayers
 
@@ -74,7 +61,32 @@ https://github.com/tomchadwin/qgis2web
 
 * [Meteor ol3](https://github.com/MasterAM/meteor-ol3), a wrapper around OpenLayers 3 for Meteor.js
 
+**Scala.js based**
+
+[Scala.js wrapper for OpenLayers 3](https://github.com/maprohu/scalajs-ol3)
+
+### Server side wrapper (Java at the moment)
+
+* [GWT wrapper OpenLayers 3](https://github.com/TDesjardins/gwt-ol3)
+* [Vaadin wrapper for OpenLayers 3](https://github.com/VOL3/v-ol3)
+
 ### Design integration components
 
 * https://github.com/jumpinjackie/bootstrap-viewer-template/
 * https://github.com/Turbo87/sidebar-v2
+
+## Miscellanous
+
+https://github.com/3x0dv5/ol3-typescript-definitions
+* [Samples to combine Turf with OpenLayers 3](https://github.com/ThomasG77/turf-ol3)
+* [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
+https://github.com/fredj/ol3-polymer
+https://github.com/nls-oskari/oskari
+https://github.com/ghettovoice/ol3-mapscale
+https://github.com/syerad/ol3-measurement
+https://github.com/pgiraud/jsonix-ol3-owscontext
+https://github.com/riana/ol3-snapsvg.git
+https://github.com/CALIL/ol3fabric
+https://github.com/Viglino/Geoportail-KISS
+
+[QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to OpenLayers (a Desktop GIS software)
