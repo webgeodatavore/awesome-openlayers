@@ -12,6 +12,7 @@
 * [Swipe maps from IGN Spain](http://www.ign.es/web/mapasantiguos/swipemap.html#map=14/-408575.03/4926060.72/0)
 * [High resolution image](http://klokantech.github.io/iiifviewer/) with [Github repository](https://github.com/klokantech/iiifviewer)
 * [EPSG.io website](http://epsg.io) with [associated sources](https://github.com/klokantech/epsg.io)
+* [Berlin businesslocationcenter.de](http://www.businesslocationcenter.de/wab/maps/main/)
 
 ### CMS integration
 
@@ -38,7 +39,9 @@
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
 * [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) for both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
 * [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) a plugin to replace context menu in OpenLayers.
+* [ol3-panzoom](https://github.com/mapgears/ol3-panzoom) PanZoom and PanZoomBar controls for OpenLayers 3
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
+* [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrate OpenLayers feature geometry reader/writer.
 
 ### Frameworks on top of OpenLayers
 
@@ -50,6 +53,7 @@
 
 **React based**
 
+* [MapStore2](https://github.com/geosolutions-it/MapStore2) with [sample](http://mapstore2.geo-solutions.it/mapstore/#/viewer/openlayers/0?_k=wzmazu)
 * https://github.com/pka/ol3-react-example
 * https://github.com/nomadlabs/react-ol3
 
