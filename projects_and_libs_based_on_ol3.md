@@ -42,6 +42,7 @@
 * [ol3-panzoom](https://github.com/mapgears/ol3-panzoom) PanZoom and PanZoomBar controls for OpenLayers 3
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
 * [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrate OpenLayers feature geometry reader/writer.
+* [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
 
 ### Frameworks on top of OpenLayers
 
