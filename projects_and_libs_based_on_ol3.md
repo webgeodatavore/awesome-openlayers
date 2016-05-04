@@ -2,9 +2,10 @@
 
 ### Websites
 
-* [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) with [code](https://github.com/buddebej/ol3-dem). Mainly outdated due to [ol.source.Raster](http://openlayers.org/en/v3.9.0/examples/shaded-relief.html)
+* [Elastic Terrain Map](http://elasticterrain.xyz) with [code](https://github.com/buddebej/elasticterrain)
+It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) with [code](https://github.com/buddebej/ol3-dem). You can also use the default [ol.source.Raster](http://openlayers.org/en/v3.15.1/examples/shaded-relief.html)
 * [DataShine](http://datashine.org.uk) with [corresponding blog post](http://oobrien.com/2014/09/openlayers-3/) about the transition.
-* [Geoportail Suisse](http://map.geo.admin.ch) (Switzerland Geoportal) with [mf-geoadmin3 code on Github](https://github.com/geoadmin/mf-geoadmin3). Based on Angular
+* [Switzerland Geoportal](http://map.geo.admin.ch) with [mf-geoadmin3 code on Github](https://github.com/geoadmin/mf-geoadmin3). Based on Angular.
 * [Rocket](http://mapshup.com/projects/rocket/), an application to select satellites images
 * [MapStory](http://mapstory.org/) with repository [story-tools](https://github.com/MapStory/story-tools)
 * [GeoBretagne viewer](http://kartenn.region-bretagne.fr/mviewer/) with [code](https://github.com/geobretagne/mviewer)
