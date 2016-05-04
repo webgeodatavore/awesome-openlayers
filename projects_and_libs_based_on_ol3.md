@@ -98,6 +98,7 @@ https://github.com/3x0dv5/ol3-typescript-definitions
 * https://github.com/NationalLibraryOfScotland/NLSExploreGeoreferencedMapsOL3
 * https://github.com/mucximilian/OLMapPoints
 * https://github.com/fabianbormann/osm-map
+* https://github.com/eblondel/ol3-loadingpanel
 
 ## Desktop to OpenLayers 3
 
