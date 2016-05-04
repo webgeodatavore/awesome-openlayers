@@ -86,18 +86,20 @@
 https://github.com/3x0dv5/ol3-typescript-definitions
 * [Samples to combine Turf with OpenLayers 3](https://github.com/ThomasG77/turf-ol3)
 * [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
-https://github.com/fredj/ol3-polymer
-https://github.com/nls-oskari/oskari
-https://github.com/ghettovoice/ol3-mapscale
-https://github.com/syerad/ol3-measurement
-https://github.com/pgiraud/jsonix-ol3-owscontext
-https://github.com/riana/ol3-snapsvg.git
-https://github.com/CALIL/ol3fabric
-https://github.com/Viglino/Geoportail-KISS
-https://github.com/roemhildtg/geocola
-https://github.com/NationalLibraryOfScotland/NLSExploreGeoreferencedMapsOL3
-https://github.com/mucximilian/OLMapPoints
-https://github.com/fabianbormann/osm-map
+* https://github.com/fredj/ol3-polymer
+* https://github.com/nls-oskari/oskari
+* https://github.com/ghettovoice/ol3-mapscale
+* https://github.com/syerad/ol3-measurement
+* https://github.com/pgiraud/jsonix-ol3-owscontext
+* https://github.com/riana/ol3-snapsvg.git
+* https://github.com/CALIL/ol3fabric
+* https://github.com/Viglino/Geoportail-KISS
+* https://github.com/roemhildtg/geocola
+* https://github.com/NationalLibraryOfScotland/NLSExploreGeoreferencedMapsOL3
+* https://github.com/mucximilian/OLMapPoints
+* https://github.com/fabianbormann/osm-map
 
-[QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to OpenLayers (a Desktop GIS software)
-[Web App Builder](http://boundlessgeo.com/2015/06/building-openlayers-3-web-app-without-writing-code/)
+## Desktop to OpenLayers 3
+
+* [QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to OpenLayers (a Desktop GIS software)
+* [Web App Builder](http://boundlessgeo.com/2015/06/building-openlayers-3-web-app-without-writing-code/)
