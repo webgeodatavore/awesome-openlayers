@@ -96,5 +96,7 @@ https://github.com/CALIL/ol3fabric
 https://github.com/Viglino/Geoportail-KISS
 https://github.com/roemhildtg/geocola
 https://github.com/NationalLibraryOfScotland/NLSExploreGeoreferencedMapsOL3
+https://github.com/mucximilian/OLMapPoints
 
 [QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to OpenLayers (a Desktop GIS software)
+[Web App Builder](http://boundlessgeo.com/2015/06/building-openlayers-3-web-app-without-writing-code/)
