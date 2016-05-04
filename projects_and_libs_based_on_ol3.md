@@ -76,6 +76,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 * [GWT wrapper OpenLayers 3](https://github.com/TDesjardins/gwt-ol3)
 * [Vaadin wrapper for OpenLayers 3](https://github.com/VOL3/v-ol3)
+* [Haskell OpenLayers Wrapper](https://github.com/olwrapper/olwrapper)
 
 ### Design integration components
 
