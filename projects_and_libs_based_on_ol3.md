@@ -14,6 +14,9 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [High resolution image](http://klokantech.github.io/iiifviewer/) with [Github repository](https://github.com/klokantech/iiifviewer)
 * [EPSG.io website](http://epsg.io) with [associated sources](https://github.com/klokantech/epsg.io)
 * [Berlin businesslocationcenter.de](http://www.businesslocationcenter.de/wab/maps/main/)
+* [Consumer Data Research Center (CDRC)](http://maps.cdrc.ac.uk)
+* [BlindMap](http://andreus.valec.net/stuff/blindMap/map.html#eng)
+* [3 step CBS explorer](http://stvno.github.io/page/cbsexplorerol/index.html)
 
 ### CMS integration
 
@@ -23,13 +26,16 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ### Official
 
-[Workshop](http://openlayers.org/workshop/)
-[Builder version graphique](https://github.com/openlayers/builder)
+* [Workshop](http://openlayers.org/workshop/)
+* [Builder (graphic UI to build the library)](https://github.com/openlayers/builder)
 
 ### Books
 
-* [OpenLayers 3 Beginner’s Guide]() by Thomas Gratier, Paul Spencer & Erik Hazzard and [code samples](http://openlayersbook.github.io))
-* [The book of OpenLayers 3 - Theory and Practice](https://leanpub.com/thebookofopenlayers3) with [code samples](http://www.acuriousanimal.com/thebookofopenlayers3/)
+* [The book of OpenLayers 3 - Theory and Practice](https://leanpub.com/thebookofopenlayers3) with [code samples](http://www.acuriousanimal.com/thebookofopenlayers3/) by Antonio Santiago Perez
+* [OpenLayers 3 Beginner’s Guide](https://www.packtpub.com/web-development/openlayers-3-beginner%E2%80%99s-guide) by Thomas Gratier, Paul Spencer & Erik Hazzard and [code samples](http://openlayersbook.github.io)) (January 2015)
+* [OpenLayers 3.x Cookbook - Second Edition](https://www.packtpub.com/web-development/openlayers-3x-cookbook-second-edition) by Peter J. Langley, Antonio Santiago Perez (March 2016)
+* [Mastering OpenLayers 3](https://www.packtpub.com/web-development/mastering-openlayers-3) by Gábor Farkas (January 2016)
+
 
 ### Plugins/addons
 
@@ -45,6 +51,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrate OpenLayers feature geometry reader/writer.
 * [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
 * [ol3-ext](https://github.com/Viglino/ol3-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol3-ext/)
+* [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
 
 ### Frameworks on top of OpenLayers
 
@@ -59,6 +66,10 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [MapStore2](https://github.com/geosolutions-it/MapStore2) with [sample](http://mapstore2.geo-solutions.it/mapstore/#/viewer/openlayers/0?_k=wzmazu)
 * https://github.com/pka/ol3-react-example
 * https://github.com/nomadlabs/react-ol3
+
+**ExtJS based**
+
+* [GeoExt3](https://github.com/geoext/geoext3)
 
 **Ember based**
 
@@ -83,6 +94,11 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * https://github.com/jumpinjackie/bootstrap-viewer-template/
 * https://github.com/Turbo87/sidebar-v2
 
+## Desktop to OpenLayers 3
+
+* [QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to various web maaping library including OpenLayers (a Desktop GIS software)
+* [Web App Builder](http://boundlessgeo.com/2015/06/building-openlayers-3-web-app-without-writing-code/)
+
 ## Miscellanous
 
 https://github.com/3x0dv5/ol3-typescript-definitions
@@ -101,8 +117,5 @@ https://github.com/3x0dv5/ol3-typescript-definitions
 * https://github.com/mucximilian/OLMapPoints
 * https://github.com/fabianbormann/osm-map
 * https://github.com/eblondel/ol3-loadingpanel
-
-## Desktop to OpenLayers 3
-
-* [QGIS2Web](https://github.com/tomchadwin/qgis2web) Export from QGIS to OpenLayers (a Desktop GIS software)
-* [Web App Builder](http://boundlessgeo.com/2015/06/building-openlayers-3-web-app-without-writing-code/)
+* https://github.com/nasa-gibs/gibs-web-examples
+* https://github.com/spatialillusions/openlayers-hexbin with [demo](http://www.spatialillusions.com/Demos/openlayers-hexbin/index.html)
