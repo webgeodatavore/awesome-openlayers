@@ -1,3 +1,10 @@
+# Awesome-OpenLayers
+
+This repository goals is to share informations about OpenLayers 3 library.
+
+Do not hesitate to make a pull request to submit changes, additions.
+
+
 ## External plugins and projects using OpenLayers
 
 ### Websites
@@ -101,7 +108,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ## Miscellanous
 
-https://github.com/3x0dv5/ol3-typescript-definitions
+* https://github.com/3x0dv5/ol3-typescript-definitions
 * [Samples to combine Turf with OpenLayers 3](https://github.com/ThomasG77/turf-ol3)
 * [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
 * https://github.com/fredj/ol3-polymer
