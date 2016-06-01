@@ -1,6 +1,6 @@
 # Awesome-OpenLayers
 
-This repository goals is to share informations about OpenLayers 3 library.
+This repository goal is to share informations about OpenLayers 3 library.
 
 Do not hesitate to make a pull request to submit changes, additions.
 
