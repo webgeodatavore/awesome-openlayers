@@ -51,11 +51,11 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol3-layerswitcher](https://github.com/walkermatt/ol3-layerswitcher) A layer switcher/control for OpenLayers 3
 * [ol3-popup](https://github.com/walkermatt/ol3-layerswitcher) A popup overlay for OpenLayers 3
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
-* [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) for both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
-* [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) a plugin to replace context menu in OpenLayers.
+* [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) For both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
+* [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) A plugin to replace context menu in OpenLayers.
 * [ol3-panzoom](https://github.com/mapgears/ol3-panzoom) PanZoom and PanZoomBar controls for OpenLayers 3
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
-* [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrate OpenLayers feature geometry reader/writer.
+* [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrates OpenLayers feature geometry reader/writer.
 * [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
 * [ol3-ext](https://github.com/Viglino/ol3-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol3-ext/)
 * [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
@@ -98,8 +98,8 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ### Design integration components
 
-* https://github.com/jumpinjackie/bootstrap-viewer-template/
-* https://github.com/Turbo87/sidebar-v2
+* [Boostrap-viewer-template](https://github.com/jumpinjackie/bootstrap-viewer-template/)
+* [Sidebar v2](https://github.com/Turbo87/sidebar-v2)
 
 ## Desktop to OpenLayers 3
 
