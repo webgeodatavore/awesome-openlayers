@@ -49,7 +49,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol3-geocoder](https://github.com/jonataswalker/ol3-geocoder) A geocoder for OpenLayers 3
 * [ol3-photon](https://github.com/webgeodatavore/ol3-photon) Another geocoder for OpenLayers 3 with less features.
 * [ol3-layerswitcher](https://github.com/walkermatt/ol3-layerswitcher) A layer switcher/control for OpenLayers 3
-* [ol3-popup](https://github.com/walkermatt/ol3-layerswitcher) A popup overlay for OpenLayers 3
+* [ol3-popup](https://github.com/walkermatt/ol3-popup) A popup overlay for OpenLayers 3
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
 * [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) For both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
 * [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) A plugin to replace context menu in OpenLayers.
