@@ -24,6 +24,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [Consumer Data Research Center (CDRC)](http://maps.cdrc.ac.uk)
 * [BlindMap](http://andreus.valec.net/stuff/blindMap/map.html#eng)
 * [3 step CBS explorer](http://stvno.github.io/page/cbsexplorerol/index.html)
+* [Remonter le temps](https://remonterletemps.ign.fr/map/basic?x=2.240519&y=48.890371&z=16&layer1=ORTHOIMAGERY.ORTHOPHOTOS&layer2=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&mode=doubleMap) "Back in time" (french site to explore data at different dates). See [announcement (in french)](http://www.ign.fr/institut/actus/lancement-service-remonter-temps).
 
 ### CMS integration
 
@@ -59,6 +60,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
 * [ol3-ext](https://github.com/Viglino/ol3-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol3-ext/)
 * [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
+* [OL3-AnimatedCluster](https://github.com/Viglino/OL3-AnimatedCluster) Clusters animation on an OL3 map. See [the demos in action](http://viglino.github.io/OL3-AnimatedCluster/).
 
 ### Frameworks on top of OpenLayers
 
@@ -108,9 +110,11 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ## Miscellanous
 
-* https://github.com/3x0dv5/ol3-typescript-definitions
 * [Samples to combine Turf with OpenLayers 3](https://github.com/ThomasG77/turf-ol3)
 * [ol3-mobile-viewer](https://github.com/sourcepole/ol3-mobile-viewer)
+* [Map-georeferencer](https://github.com/Viglino/Map-georeferencer) Proof of concept to georeference maps with OL3. See [the demos in action](http://viglino.github.io/Map-georeferencer/)
+* [VSCode map preview extension](https://github.com/jumpinjackie/vscode-map-preview), an extension to provide the ability to preview spatial data files and snippets on a map
+* https://github.com/3x0dv5/ol3-typescript-definitions
 * https://github.com/fredj/ol3-polymer
 * https://github.com/nls-oskari/oskari
 * https://github.com/ghettovoice/ol3-mapscale
