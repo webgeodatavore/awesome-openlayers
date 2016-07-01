@@ -26,6 +26,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [3 step CBS explorer](http://stvno.github.io/page/cbsexplorerol/index.html)
 * [Remonter le temps](https://remonterletemps.ign.fr/map/basic?x=2.240519&y=48.890371&z=16&layer1=ORTHOIMAGERY.ORTHOPHOTOS&layer2=ORTHOIMAGERY.ORTHOPHOTOS.1950-1965&mode=doubleMap) "Back in time" (french site to explore data at different dates). See [announcement (in french)](http://www.ign.fr/institut/actus/lancement-service-remonter-temps).
 * [Carta Històrica de Barcelona](http://cartahistorica.muhba.cat/index.html#map=14/242185/5070759/2010//0/0/0/0) (Historic Map of Barcelona)
+* [Met Office WOW](http://wow.metoffice.gov.uk) (WeatherObservationsWebsite)
 
 ### CMS integration
 
