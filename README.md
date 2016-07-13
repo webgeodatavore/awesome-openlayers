@@ -28,6 +28,9 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [Carta Històrica de Barcelona](http://cartahistorica.muhba.cat/index.html#map=14/242185/5070759/2010//0/0/0/0) (Historic Map of Barcelona)
 * [Met Office WOW](http://wow.metoffice.gov.uk) (WeatherObservationsWebsite)
 * [Open Transport Map](http://opentransportmap.info) and [OpenTransportNet](http://www.opentransportnet.eu/web/guest/create-maps?hs_x=264940.38808799116&hs_y=6247767.025663918&hs_z=12&visible_layers=Topographic%3Btraffic%20volumes%20on%20Paris%20roads%20between%2004%26%2347%3B04%26%2347%3B2016%20and%2010%26%2347%3B04%26%2347%3B2016&hs_panel=layermanager&permalink=http%3A%2F%2Fwww.opentransportnet.eu%2Fwwwlibs%2Fstatusmanager2%2Findex.php%3Frequest%3Dload%26id%3Db760a02c-f2a0-48f7-b529-87a308f7abdc)
+* [Luxembourg Geoportal](https://www.geoportail.lu). Based on Ngeo (Angular + OpenLayers 3 framework). Sources at [Github](https://github.com/Geoportail-Luxembourg/geoportailv3/) 
+* [Map hiking in Switzerland](https://map.wanderland.ch)
+* [Bicycle Route Planner | Pro Velo Bern](http://www.veloroutenplaner.ch) and sources at [Github](https://github.com/camptocamp/provelobern_bicyclerouteplanner)
 
 ### CMS integration
 
