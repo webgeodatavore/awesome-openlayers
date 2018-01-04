@@ -136,3 +136,4 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * https://github.com/eblondel/ol3-loadingpanel
 * https://github.com/nasa-gibs/gibs-web-examples
 * https://github.com/spatialillusions/openlayers-hexbin with [demo](http://www.spatialillusions.com/Demos/openlayers-hexbin/index.html)
+* [TileServer GL](https://github.com/klokantech/tileserver-gl) - Tile server for OpenLayers
