@@ -1,6 +1,6 @@
 # Awesome-OpenLayers
 
-This repository goal is to share informations about OpenLayers 3 library.
+This repository goal is to share informations about OpenLayers 3, 4 & 5 library.
 
 Do not hesitate to make a pull request to submit changes, additions.
 
@@ -28,15 +28,18 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [Carta Històrica de Barcelona](http://cartahistorica.muhba.cat/index.html#map=14/242185/5070759/2010//0/0/0/0) (Historic Map of Barcelona)
 * [Met Office WOW](http://wow.metoffice.gov.uk) (WeatherObservationsWebsite)
 * [Open Transport Map](http://opentransportmap.info) and [OpenTransportNet](http://www.opentransportnet.eu/web/guest/create-maps?hs_x=264940.38808799116&hs_y=6247767.025663918&hs_z=12&visible_layers=Topographic%3Btraffic%20volumes%20on%20Paris%20roads%20between%2004%26%2347%3B04%26%2347%3B2016%20and%2010%26%2347%3B04%26%2347%3B2016&hs_panel=layermanager&permalink=http%3A%2F%2Fwww.opentransportnet.eu%2Fwwwlibs%2Fstatusmanager2%2Findex.php%3Frequest%3Dload%26id%3Db760a02c-f2a0-48f7-b529-87a308f7abdc)
-* [Luxembourg Geoportal](https://www.geoportail.lu). Based on Ngeo (Angular + OpenLayers 3 framework). Sources at [Github](https://github.com/Geoportail-Luxembourg/geoportailv3/) 
+* [Luxembourg Geoportal](https://www.geoportail.lu). Based on Ngeo (Angular + OpenLayers 3 framework). Sources at [Github](https://github.com/Geoportail-Luxembourg/geoportailv3/)
 * [Map hiking in Switzerland](https://map.wanderland.ch)
 * [Bicycle Route Planner | Pro Velo Bern](http://www.veloroutenplaner.ch) and sources at [Github](https://github.com/camptocamp/provelobern_bicyclerouteplanner)
+* [Kitodo.Presentation](https://digital.slub-dresden.de/werkansicht/dlf/162147/7/) Usage of OpenLayers in a library context to annotate, zoom on  documents. [Associated code](https://github.com/kitodo/kitodo-presentation) with PHP (Typo3) based back-end
+* [The Agas Map of Early Modern London](http://mapoflondon.uvic.ca/agas.htm) with [associated code](https://github.com/martindholmes/BreezeMap)
 
 ### CMS integration
 
 * [OpenLayers 3 plugin for Drupal](https://www.drupal.org/project/openlayers)
 * [WordPress OpenStreetMap Plugin](http://wp-osm-plugin.hanblog.net/allgemein/openlayers-3-in-wordpress-osm-plugin/)
-
+* [silverstripe-openlayers](https://github.com/silverstripe-archive/silverstripe-openlayers)
+* [Flamingo](https://github.com/flamingo-geocms/flamingo) Flamingo Geo CMS repository
 
 ### Official
 
@@ -58,7 +61,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol-layerswitcher](https://github.com/walkermatt/ol-layerswitcher) A layer switcher/control for OpenLayers (supports [ol package](https://www.npmjs.com/package/ol))
 * [ol-popup](https://github.com/walkermatt/ol-popup) A popup overlay for OpenLayers (supports [ol package](https://www.npmjs.com/package/ol))
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
-* [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) For both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute)
+* [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) For both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute) You can find associated code at [geoportal-extensions repository](https://github.com/IGNF/geoportal-extensions)
 * [ol3-contexmenu](https://github.com/jonataswalker/ol3-contextmenu) A plugin to replace context menu in OpenLayers.
 * [ol3-panzoom](https://github.com/mapgears/ol3-panzoom) PanZoom and PanZoomBar controls for OpenLayers 3
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
@@ -67,6 +70,12 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol3-ext](https://github.com/Viglino/ol3-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol3-ext/)
 * [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
 * [OL3-AnimatedCluster](https://github.com/Viglino/OL3-AnimatedCluster) Clusters animation on an OL3 map. See [the demos in action](http://viglino.github.io/OL3-AnimatedCluster/).
+* [ol-hashed](https://github.com/tschaub/ol-hashed) Maintain your map view's state in the URL hash
+* [ol-hash](https://github.com/frogcat/ol-hash) Simple OpenLayers plugin to save map view state in URL hash
+* [ol-mapbox-style](https://github.com/boundlessgeo/ol-mapbox-style) Use Mapbox Style objects with OpenLayers
+* [mapbox-to-ol-style](https://github.com/boundlessgeo/mapbox-to-ol-style) Utility for creating OpenLayers style functions from Mapbox Style objects
+* [ol3-loadingpanel](https://github.com/eblondel/ol3-loadingpanel) OpenLayers 3 Loading Panel
+* [OL3-games](https://viglino.github.io/ol3-games/index.html) Game stuff for OL3, powered by HTML5, canvas, JavaScript and Openlayers 3
 
 ### Frameworks on top of OpenLayers
 
@@ -75,12 +84,22 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [Ngeo](https://github.com/camptocamp/ngeo) by CampToCamp
 * [Angular OpenLayers directive](https://github.com/tombatossals/angular-openlayers-directive)
 * [HSLAYERS-NG](http://ng.hslayers.org/) with [Github repository](https://github.com/hslayers/hslayers-ng)
+* [Open GIS Infrastructure 2.0 Library](https://github.com/infra-geo-ouverte/igo2-lib)
 
 **React based**
 
+* [react-geo](https://github.com/terrestris/react-geo) A set of geo related modules. To use in combination with react, antd and ol. Demos et docs visible at <https://terrestris.github.io/react-geo/>
+* [React-openlayers](https://github.com/allenhwkim/react-openlayers)
+* [ol-react](https://github.com/richardhills/ol-react)
 * [MapStore2](https://github.com/geosolutions-it/MapStore2) with [sample](http://mapstore2.geo-solutions.it/mapstore/#/viewer/openlayers/0?_k=wzmazu)
 * https://github.com/pka/ol3-react-example
 * https://github.com/nomadlabs/react-ol3
+
+**Vue based**
+
+* [vuelayers](https://github.com/ghettovoice/vuelayers) Vue components to work with OpenLayers. Demos at https://vuelayers.github.io/
+* [vue-openlayers](https://github.com/sombriks/vue-openlayers) Humble vue wrapper for the powerful openlayers map api
+
 
 **ExtJS based**
 
@@ -88,7 +107,12 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 **Ember based**
 
+* [ember-ol](https://github.com/bjornharrtell/ember-ol) Ember components and models for OpenLayers
 * [Ember ol3 proof of concept](https://github.com/bartvde/ol3-ember) Outdated
+
+**Aurelia based**
+
+* [aurelia-openlayers](https://github.com/mroseboom/aurelia-openlayers) A custom element for use in your Aurelia applications for inserting Openlayers into your application.
 
 **Meteor based**
 
@@ -98,7 +122,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 [Scala.js wrapper for OpenLayers 3](https://github.com/maprohu/scalajs-ol3)
 
-### Server side wrapper (Java at the moment)
+### Server side wrappers
 
 * [GWT wrapper OpenLayers 3](https://github.com/TDesjardins/gwt-ol3)
 * [Vaadin wrapper for OpenLayers 3](https://github.com/VOL3/v-ol3)
@@ -133,6 +157,10 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * https://github.com/NationalLibraryOfScotland/NLSExploreGeoreferencedMapsOL3
 * https://github.com/mucximilian/OLMapPoints
 * https://github.com/fabianbormann/osm-map
-* https://github.com/eblondel/ol3-loadingpanel
 * https://github.com/nasa-gibs/gibs-web-examples
 * https://github.com/spatialillusions/openlayers-hexbin with [demo](http://www.spatialillusions.com/Demos/openlayers-hexbin/index.html)
+* https://github.com/programmerg/ol3editor with demo at https://programmerg.github.io/ol3editor/
+* https://github.com/KlausBenndorf/guide4you
+* https://github.com/dpmcmlxxvi/olexp
+* https://github.com/roemhildtg/geocola
+* [ol3-extras-demos](https://github.com/webgeodatavore/ol3-extras-demos/) Demos for playing with OpenLayers 3 when features not documented because not required in the core (disclosure: by the maintainer of the repo you are browsing)
