@@ -67,7 +67,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
 * [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrates OpenLayers feature geometry reader/writer.
 * [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
-* [ol3-ext](https://github.com/Viglino/ol3-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol3-ext/)
+* [ol-ext](https://github.com/Viglino/ol-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol-ext/)
 * [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
 * [OL3-AnimatedCluster](https://github.com/Viglino/OL3-AnimatedCluster) Clusters animation on an OL3 map. See [the demos in action](http://viglino.github.io/OL3-AnimatedCluster/).
 * [ol-hashed](https://github.com/tschaub/ol-hashed) Maintain your map view's state in the URL hash
