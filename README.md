@@ -56,9 +56,21 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ### Plugins/addons
 
+* [ol-ext](https://github.com/Viglino/ol-ext) Dozens of classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol-ext/)
+
+#### Geocoder
+
+* [ol.control.SearchNominatim](https://viglino.github.io/ol-ext/examples/search/map.control.searchnominatim.html) from ol-ext
 * [ol3-geocoder](https://github.com/jonataswalker/ol3-geocoder) A geocoder for OpenLayers 3
 * [ol3-photon](https://github.com/webgeodatavore/ol3-photon) Another geocoder for OpenLayers 3 with less features.
+
+#### Layer switcher
+
+* [Layer switcher control](https://viglino.github.io/ol-ext/examples/control/map.switcher.html), [with layer filter](https://viglino.github.io/ol-ext/examples/control/map.switcher.filter.html), [with image buttons](https://viglino.github.io/ol-ext/examples/control/map.switcher.image.html), [as popup](https://viglino.github.io/ol-ext/examples/control/map.switcher.popup.html) from os-ext
 * [ol-layerswitcher](https://github.com/walkermatt/ol-layerswitcher) A layer switcher/control for OpenLayers (supports [ol package](https://www.npmjs.com/package/ol))
+
+#### Uncategorized
+
 * [ol-popup](https://github.com/walkermatt/ol-popup) A popup overlay for OpenLayers (supports [ol package](https://www.npmjs.com/package/ol))
 * [ol3-Cesium](http://openlayers.org/ol3-cesium/) OpenLayers - Cesium integration library. Create your map using OpenLayers 3, and visualize it on a globe with Cesium.
 * [IGNF addons](https://github.com/IGNF/evolution-apigeoportail) For both OpenLayers 3 and Leaflet to use layers and services in particular from the "Géoportail" (the official IGNF main cartography portal). The IGNF (Institut National Géographique et Forestier) is the French State Mapping Institute) You can find associated code at [geoportal-extensions repository](https://github.com/IGNF/geoportal-extensions)
@@ -67,7 +79,6 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol3-google-maps](https://github.com/mapgears/ol3-google-maps) Well maintained OpenLayers 3 derived library to support Google Maps
 * [jsts](https://github.com/bjornharrtell/jsts) JavaScript Topology Suite. It integrates OpenLayers feature geometry reader/writer.
 * [ole](https://github.com/boundlessgeo/ole/) OpenLayers 3 and ArcGIS REST
-* [ol-ext](https://github.com/Viglino/ol-ext) Miscellanous classes and functions for OpenLayers 3. See [the demos in action](http://viglino.github.io/ol-ext/)
 * [ol3-projection-switcher](https://github.com/nsidc/ol3-projection-switcher)
 * [OL3-AnimatedCluster](https://github.com/Viglino/OL3-AnimatedCluster) Clusters animation on an OL3 map. See [the demos in action](http://viglino.github.io/OL3-AnimatedCluster/).
 * [ol-hashed](https://github.com/tschaub/ol-hashed) Maintain your map view's state in the URL hash
