@@ -75,7 +75,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [ol-mapbox-style](https://github.com/boundlessgeo/ol-mapbox-style) Use Mapbox Style objects with OpenLayers
 * [mapbox-to-ol-style](https://github.com/boundlessgeo/mapbox-to-ol-style) Utility for creating OpenLayers style functions from Mapbox Style objects
 * [ol3-loadingpanel](https://github.com/eblondel/ol3-loadingpanel) OpenLayers 3 Loading Panel
-* [OL3-games](https://viglino.github.io/ol3-games/index.html) Game stuff for OL3, powered by HTML5, canvas, JavaScript and Openlayers 3
+* [ol-games](https://viglino.github.io/ol-games/index.html) Game stuff for OL3, powered by HTML5, canvas, JavaScript and Openlayers 3
 
 ### Frameworks on top of OpenLayers
 
