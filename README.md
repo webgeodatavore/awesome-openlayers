@@ -99,7 +99,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 * [vuelayers](https://github.com/ghettovoice/vuelayers) Vue components to work with OpenLayers. Demos at https://vuelayers.github.io/
 * [vue-openlayers](https://github.com/sombriks/vue-openlayers) Humble vue wrapper for the powerful openlayers map api
-
+* [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) vue3-openlayers is components library that brings the powerful OpenLayers API to the Vue3 reactive world. It can display maps with tiled, raster or vector layers loaded from different sources.  Docs at https://vue3openlayers.netlify.app/
 
 **ExtJS based**
 
