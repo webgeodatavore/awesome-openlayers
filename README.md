@@ -79,12 +79,16 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 
 ### Frameworks on top of OpenLayers
 
+**Angular based**
+
+* [Open GIS Infrastructure 2.0](https://github.com/infra-geo-ouverte/igo2)
+* [Open GIS Infrastructure 2.0 Library](https://github.com/infra-geo-ouverte/igo2-lib)
+
 **AngularJS based**
 
 * [Ngeo](https://github.com/camptocamp/ngeo) by CampToCamp
 * [Angular OpenLayers directive](https://github.com/tombatossals/angular-openlayers-directive)
 * [HSLAYERS-NG](http://ng.hslayers.org/) with [Github repository](https://github.com/hslayers/hslayers-ng)
-* [Open GIS Infrastructure 2.0 Library](https://github.com/infra-geo-ouverte/igo2-lib)
 
 **React based**
 
