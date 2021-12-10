@@ -33,7 +33,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [Bicycle Route Planner | Pro Velo Bern](http://www.veloroutenplaner.ch) and sources at [Github](https://github.com/camptocamp/provelobern_bicyclerouteplanner)
 * [Kitodo.Presentation](https://digital.slub-dresden.de/werkansicht/dlf/162147/7/) Usage of OpenLayers in a library context to annotate, zoom on  documents. [Associated code](https://github.com/kitodo/kitodo-presentation) with PHP (Typo3) based back-end
 * [The Agas Map of Early Modern London](http://mapoflondon.uvic.ca/agas.htm) with [associated code](https://github.com/martindholmes/BreezeMap)
-* Open GIS Infrastructure 2.0 with [associated code](https://github.com/infra-geo-ouverte/igo2)
+* [Open GIS Infrastructure 2.0](https://infra-geo-ouverte.github.io/igo2/) with [associated code](https://github.com/infra-geo-ouverte/igo2)
 
 ### CMS integration
 
