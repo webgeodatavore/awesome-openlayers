@@ -77,6 +77,7 @@ It superseeds the [Plan Oblique Europe](http://buddebej.de/planobliqueeurope/) w
 * [mapbox-to-ol-style](https://github.com/boundlessgeo/mapbox-to-ol-style) Utility for creating OpenLayers style functions from Mapbox Style objects
 * [ol3-loadingpanel](https://github.com/eblondel/ol3-loadingpanel) OpenLayers 3 Loading Panel
 * [ol-games](https://viglino.github.io/ol-games/index.html) Game stuff for OL3, powered by HTML5, canvas, JavaScript and Openlayers 3
+* [Allmaps OpenLayers](https://github.com/allmaps/allmaps/tree/main/packages/openlayers) - A package for displaying georeferenced [IIIF](https://iiif.io/) images by loading [Georeference Annotations](https://preview.iiif.io/api/georef/extension/georef/) and using WebGL to transform and overlay the images on their correct geographical position.
 
 ### Frameworks on top of OpenLayers
 
